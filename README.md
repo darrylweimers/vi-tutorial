@@ -12,7 +12,11 @@ To delete a block of lines
 4. Move your cursor down to the bottom of the block of text/code to remove.          
 5. Press d.            
 
-
+Select multiple line and shift             
+1. Press "<SHIFT> + v" to enter VISUAL LINE mode.             
+2. Select the text you wish to indent but using either the cursor keys or the "j" and "k" keys.           
+3. To indent press "<SHIFT> + dot" (> character).               
+          
 
 
 
