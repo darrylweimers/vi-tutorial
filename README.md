@@ -22,6 +22,10 @@ Show line number:
 2. Press : (the colon).
 3. Enter the following command: set number.
 
+Move to end of line             
+1. Press the Esc key           
+2. use the "$" character to move to the end of the current line               
 
-
-
+Move to start of line              
+1. Press the Esc key               
+2. use the 0 character to move to the start of the current line      
